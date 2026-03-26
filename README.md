@@ -1,11 +1,9 @@
 ﻿# Application for creating and editing electronic menus
 
-# 🍽️ Menu Editor
+# 🍽️ Menu Creator
 
 Школьный проект ученика 11 класса.  
 Приложение для создания и редактирования электронных меню.
-
-![Скриншот](screenshot.png)
 
 ## 🛠️ Стек технологий
 
@@ -17,7 +15,7 @@
 ## 🚀 Запуск
 
 ```bash
-git clone https://github.com/GIROSKOP/menu-editor.git
+git clone https://github.com/GIROSKOP/Menu_creator.git
 cd School_proj_11
 python menu.py
 ```
